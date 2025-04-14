@@ -1,0 +1,7 @@
+Melhor formatação do código, definindo funções para processos que podem ser repetidos.
+Implementação de seleção de dificuldade do computador.
+
+Próximos passos:
+- Possibilidade de jogar contra outro player
+- Possibilidade de escolher por qual caracter será representado
+- Contagem de jogos, vitória e derrotas
