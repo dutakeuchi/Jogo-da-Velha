@@ -1,7 +1,10 @@
 Melhor formatação do código, definindo funções para processos que podem ser repetidos.
 Implementação de seleção de dificuldade do computador.
 
+1.1 - Alteração de continuidade de jogo de s/n para 1/2. Maior facilidade em jogar usando somente o teclado numérico
+- Contagem de jogos, vitória, derrotas e empates
+- Possibilidade de escolher por qual caractere será representado
+
 Próximos passos:
 - Possibilidade de jogar contra outro player
-- Possibilidade de escolher por qual caracter será representado
-- Contagem de jogos, vitória e derrotas
+
