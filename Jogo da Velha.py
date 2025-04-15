@@ -133,7 +133,7 @@ while valid == False:
         print (caracUsua)
 
 ## seleciona o caractere do computador
-if caracUsua == 'x':
+if caracUsua == 'x' or caracUsua == 'X':
     caracComp = 'o'
 else:
     caracComp = 'x'

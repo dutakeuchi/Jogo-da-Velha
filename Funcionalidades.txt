@@ -5,6 +5,8 @@ Implementação de seleção de dificuldade do computador.
 - Contagem de jogos, vitória, derrotas e empates
 - Possibilidade de escolher por qual caractere será representado
 
+1.1.1 - Alteração da seleção do caractere para que não fique 'X' para o usuário e 'x' para o computador
+
 Próximos passos:
 - Possibilidade de jogar contra outro player
 
